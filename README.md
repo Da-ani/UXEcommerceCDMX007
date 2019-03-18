@@ -1,5 +1,5 @@
 
-![logo](https://i.ibb.co/wRTjmvv/cow.png)
+![logo](https://subefotos.com/ver/?db1ad969651bdcf40514b51ab893d02fo.jpg)
 
 # Vacas Sagradas
 
@@ -52,7 +52,7 @@ Para acotar estos problemas y tener claramente cuales eran decidimos hacerle una
 
  
 Objetivo de la entrevista: Concretar la idea de Laura y conocer los gustos y finalidad que ella tiene para el proyecto de vacas locas.
--Buen día Laura, nosotras somos Daniela y Ariadna,  nos intereso tu proyecto ya que nosotras somos millennials a pesar de que el tema es poco abordado creemos que generaría un impacto en la educación financiera y la cultura en México el proyecto. Empezaremos con las preguntas:
+- Buen día Laura, nosotras somos Daniela y Ariadna,  nos intereso tu proyecto ya que nosotras somos millennials a pesar de que el tema es poco abordado creemos que generaría un impacto en la educación financiera y la cultura en México el proyecto. Empezaremos con las preguntas:
 ¿Cuál es el problema o necesidad que te gustaría resolver?. 
 ¿Qué temas crees que debe abordar en la educación financiera?
 ¿Cuál sería el modelo de negocio?
@@ -69,17 +69,17 @@ Objetivo de la entrevista: Concretar la idea de Laura y conocer los gustos y fin
 Las respuestas de Laura nos ayudaron mucho ya que ahí descubrimos los insights de ella con respecto a su proyecto así que analizamos ciertos puntos y se obtuvo la siguiente información:
 ![entrevista](https://photos.app.goo.gl/KyAzVPWfk6wqPPij7)
 
--No tiene claro el nombre
--Búsqueda de insights
--Propuesta de Valor
--Información público objetivo
+- No tiene claro el nombre
+- Búsqueda de insights
+- Propuesta de Valor
+- Información público objetivo
 
 Problema del usuario: Nuestro usuario son los millennials  con un rango salarial entre los $9,000 y los $20,000 MXN que en personalidad se identificaron por ser ambiciosos y darle más importancia a su carrera profesional, les gusta viajar  y mencionan que en la escuela no se les ha dado esta educación financiera en sus vidas, se ha ido comprendiendo lo básico en las situaciones de crisis financieras o bien en su familia.
 
--No saben ahorrar
--No tienen  la motivación de buscar información acerca de su salud financiera
--Dicen que los gastos y/o deudas los rebasan por lo cual no pueden ahorrar
--Les da miedo la estabilidad laboral
+- No saben ahorrar
+- No tienen  la motivación de buscar información acerca de su salud financiera
+- Dicen que los gastos y/o deudas los rebasan por lo cual no pueden ahorrar
+- Les da miedo la estabilidad laboral
  
 ## Objetivos
 
@@ -137,24 +137,24 @@ La falta de conocimientos financieros básicos, inhibe la habilidad de aplicarlo
 
 En el plano individual, el buen manejo que tiene una persona sobre sus finanzas, impacta positivamente en su calidad de vida y en la de su familia, ya que:
 
-• Promueve la cultura del ahorro.
-• Genera conciencia sobre cuándo y cómo es conveniente endeudarse. 
-• Permite comparar productos financieros.
-• Otorga protección a los consumidores que al estar informados, demandan mayor transparencia en los servicios financieros.
+* Promueve la cultura del ahorro.
+* Genera conciencia sobre cuándo y cómo es conveniente endeudarse. 
+* Permite comparar productos financieros.
+* Otorga protección a los consumidores que al estar informados, demandan mayor transparencia en los servicios financieros.
 
 Los conceptos fundamentales relacionados con la educación financiera son dinero, ahorro inversión y crédito.
 El sistema financiero es uno de los elementos más importantes que la cultura financiera toma en cuenta. Se puede explicar, haciendo un gran esfuerzo de síntesis, con dos componentes. Por un lado, personas, instituciones o empresas que tienen un sobrante de dinero para ahorro o inversión, y del otro lado, los mismos componentes, pero con necesidad de ese dinero. Cuando los excedentes de esos recursos se canalizan a quien los necesita, nace la llamada intermediación financiera. El desarrollo de un buen sistema financiero, requiere el fortalecimiento de ambos lados. Por ello se hace necesaria la cultura financiera.
 
 La Encuesta Nacional de Inclusión Financiera (2017) muestra que sólo el 36.6% de la población lleva un registro de sus gastos (63.8% mentalmente, disminuyendo su confiabilidad). También menciona que 33.6 millones de personas, 44%, tiene una cuenta de ahorro y 41.2% algún servicio de ahorro para su retiro. De las personas que no tienen productos de ahorro o crédito, 50% manifiesta que sus ingresos son insuficientes y a 11% no le interesa adquirir ningún instrumento. Por otro lado, en 2014, las mismas instituciones, BANAMEX y UNAM, realizaron un estudio para conocer la situación sobre la cultura financiera entre los jóvenes de 15 a 29 años de México. Dicho estudio muestra que en este sector:
 
-• No existe una cultura de ahorro formal, en 47% de los encuestados.
-• Más de 50% no lleva un control de sus finanzas: ingresos, gastos, ahorro, etc.
-• A pesar de conocer el significado del ahorro, muchos de ellos aún no cuentan con ingresos necesarios para llevar a cabo esa práctica.
-• Ahorran, pero no saben en qué invertir. El tipo de inversión más reconocido para los jóvenes está relacionado con poner algún tipo de negocio (30% de los encuestados), mientras que los instrumentos financieros fueron los menos conocidos (por ejemplo, los Cetes).
-• El 87% no cuenta con un ahorro para el retiro.
-• El 50% reconoce no tener el conocimiento necesario para tomar decisiones relacionadas con sus finanzas.
-• Los jóvenes identifican a su familia como los mejores ejemplos para su formación financiera.
-• La edad e independencia es un factor importante. Los ya independientes tienden a llevar un mejor control de sus finanzas.
+* No existe una cultura de ahorro formal, en 47% de los encuestados.
+* Más de 50% no lleva un control de sus finanzas: ingresos, gastos, ahorro, etc.
+* A pesar de conocer el significado del ahorro, muchos de ellos aún no cuentan con ingresos necesarios para llevar a cabo esa práctica.
+* Ahorran, pero no saben en qué invertir. El tipo de inversión más reconocido para los jóvenes está relacionado con poner algún tipo de negocio (30% de los encuestados), mientras que los instrumentos financieros fueron los menos conocidos (por ejemplo, los Cetes).
+* El 87% no cuenta con un ahorro para el retiro.
+* El 50% reconoce no tener el conocimiento necesario para tomar decisiones relacionadas con sus finanzas.
+* Los jóvenes identifican a su familia como los mejores ejemplos para su formación financiera.
+* La edad e independencia es un factor importante. Los ya independientes tienden a llevar un mejor control de sus finanzas.
 
 Por ello se desea combatir esta cultura relegada o ignorancia masificada con la idea del proyecto de Laura Figueroa, que busca llegar a los millennials a través de un canal de youtube pero, ¿cómo podría generar esto un impacto?, de acuerdo al último estudio del internauta mexicano de la AMIPCI, de los 65 millones de usuarios de Internet en Mexico, dedican alrededor de 7 horas y 14 minutos al día para navegar en distintas plataformas, logrando el primer lugar con un 77%, la conexión a internet vía dispositivos móviles.
 Ahora bien, de ese porcentaje detallado, la red social YouTube, ocupa el segundo lugar de preferencia de uso en el usuario mexicano, por debajo de Facebook en primer lugar.
