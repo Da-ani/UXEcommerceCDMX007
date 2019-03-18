@@ -1,6 +1,6 @@
-![logo](https://i.ibb.co/wRTjmvv/cow.png)
 
-# Vacas Flacas
+
+# Vacas Flacas   ![logo](https://i.ibb.co/ssNDtHx/36g6.jpg)
 
 ## Índice
 
