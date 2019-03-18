@@ -20,7 +20,7 @@
 
 ## Resumen del proyecto 
 
-Actualmente existen diversos programas, apps, blogs y canales en youtube que se enfocan a la problemática acerca de educación financiera en México, y para poder hacer un canal o cualquiera de estos medios se tuvo que realizar una investigación a fondo que estableciera los insights de nuestro user persona. La educación financiera se ha convertido en un tema de interés no sólo para organismos nacionales sino también internacionales. Contar con información y datos suficientes y confiables para tomar decisiones en la vida financiera de los millennials es vital para tener un plan de gastos, de ahorro e, incluso, de inversiones.
+Actualmente existen diversos programas, apps, blogs y canales en youtube que se enfocan a la problemática acerca de educación financiera en México, y para poder hacer un canal o cualquiera de estos medios se tuvo que realizar una investigación a fondo que estableciera los insights de nuestro user persona. La **educación financiera** se ha convertido en un tema de interés no sólo para organismos nacionales sino también internacionales. Contar con información y datos suficientes y confiables para tomar decisiones en la vida financiera de los **millennials** es vital para tener un plan de gastos, de ahorro e, incluso, de inversiones.
 
 
 ## Problema  
