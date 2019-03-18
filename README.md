@@ -1,317 +1,147 @@
-# Plataforma de ventas en línea
+![logo](https://i.ibb.co/wRTjmvv/cow.png)
 
-## Preámbulo
+# Vacas Sagradas
 
-Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
-empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
-modelos de negocio que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. Es 
-importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. La época de los pure players 
-se acerca a su fin.
+## Índice
 
-Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea. En 2017 el 65.5% de la 
-población tuvo acceso a Internet, lo que equivale a 85 millones de personas, de las cuales el 32% ya había hecho alguna compra 
-por internet.
 
-El e-commerce en México tiene un gran potencial de crecimiento, México necesita casos de éxito, pero estos casos no se 
-conseguirán en corto plazo, esto será el resultado de construir un círculo virtuoso donde quepan el progreso de la economía y 
-el de la sociedad.
+- [Descripción](#resumen-del-proyecto)
+- [Objetivos](#objetivos)
+- [Problema](#problema)
+- [Método de investigación](#metodo-de-investigacion)
+- [Plan de Trabajo](#plan-de-trabajo)
+- [Etapa Exploratoria:](#etapa-exploratoria)
+- [Definición del público objetivo](#definicion-del-publico-objetivo)
+- [Customer Journey Map](#customer-journey-map)
+- [Definición de producto](#definicion-de-producto)
+- [Contenido](#contenido)
+- [Contenidos](#contenidos)
 
-¿Podemos como País estar preparados para escalar modelos de negocios que tengan cabida en la nueva era?
 
-## Introducción
+## Resumen del proyecto 
 
-### “Nuevo portal de e-commerce”
+Actualmente existen diversos programas, apps, blogs y canales en youtube que se enfocan a la problemática acerca de educación financiera en México, y para poder hacer un canal o cualquiera de estos medios se tuvo que realizar una investigación a fondo que estableciera los insights de nuestro user persona. La educación financiera se ha convertido en un tema de interés no sólo para organismos nacionales sino también internacionales. Contar con información y datos suficientes y confiables para tomar decisiones en la vida financiera de los millennials es vital para tener un plan de gastos, de ahorro e, incluso, de inversiones.
 
-Con la finalidad de reducir la brecha tecnológica entre las y los propietarios de pequeños emprendimientos, lanzamos una 
-iniciativa a través de la cual las estudiantes del track de UX podrán elegir a **uno** de estos negocios para asesorarles y 
-crear un portal desde donde los consumidores puedan acceder a sus productos y servicios más fácilmente e incluso realizar una 
-compra. Entre los emprendimientos que puedes elegir están:
 
-- Bio Aquatic
-- Cucú Caramelo
-- Almas Dulces
-- Vaca Sagrada
-- Luna Maya 
-- Solovino Club
-- Yi-yi portabebés
-- Kuuch Kalán
-- Darjeeling MX
-- Juntitos los dos
+## Problema  
 
-Consulta la información de estos emprendimientos [aquí](https://docs.google.com/spreadsheets/d/1bkLd6lVd0Ev3ytCfX_20_q8wL_ENKhYXEsSU8MWNHA8/edit#gid=0)
+Debido al aumento de jóvenes nacidos entre 1985 y 1996  incursionando en el mercado laboral, de acuerdo con la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, 30% de los jóvenes mexicanos no muestra interés por la cultura financiera y prefieren gastar en experiencias antes que ahorrar sus ingresos, al menos financieramente, además son una generación que no piensa a futuro,no tienen algún conocimiento o interés por adquirir una salud financiera, ya que están concentrados en adquirir las mayores experiencias posibles antes de su vejez. 
+Uno de los factores que afectan a la salud financiera mundial, es la ausencia de una cultura financiera. Sobre todo, es un tema que no es atendido desde los primeros años de vida y hasta que la persona alcanza su madurez. Solamente los que se dedican específicamente a especializarse en el tema, tienen un bagaje de conocimientos que les permite en un momento determinado tomar una decisión financiera correcta.
+Ante ello Laura Figueroa se propone iniciar un proyecto que sea un parteaguas que influya en la generación millennial y que de acuerdo a sus formas de aprendizaje se les haga relevante, innovador, con un lenguaje adecuado y forme en ellos la curiosidad hacia el buen manejo de sus finanzas.
+En consecuencia a todo esto, es que surgen las siguientes preguntas de investigación 
+• ¿Por qué los millennials no toman en cuenta su situación financiera? ¿Con qué lenguaje se debe abordar los temas a está generación?
+• ¿Es un tema cultural o un tema de educación desde su infancia? ¿Será buena idea hacer un canal, blog o app acerca de finanzas personales? 
+• ¿Cómo atraer a los jóvenes millennials a que vean un canal, blog o app sobre salud financiera? ¿Qué tipo de contenido les atrae ver a esta generación? 
+Lo que se espera de esta investigación es dar una solución a estas interrogantes para llevar a cabo una landing page que nos apoyará con el fomento de la salud financiera mostrando a los millennials que se puede informar de estos temas de manera sencilla y digerible y con un lenguaje con el que interactúen y se sientan más identificados así como que les forme un  interés genuino.
 
-Luego de elegir con quién trabajarás, ayudarás al emprendedor o emprendedora por medio de un estudio inicial a poder 
-visualizar cómo debería ser este portal de ventas, así como una mejor forma de ofrecer los productos a los consumidores. Para 
-ello, necesitarás averiguar cómo son las y los usuarios que utilizarían este canal de venta y cuáles son sus motivaciones, 
-cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
+Problema del cliente: Laura se percató de está situación de desinterés y de desinformación, cuando se independiza se da cuenta que no le rendía el dinero, por lo cual necesitaba administrarse mejor para lograr pasar la quincena con el dinero suficiente, fue ahí cuando surgieron las dudas pero notó que muchos de sus compañeros y personas de su entorno tenían estas mismas preocupaciones, así que su idea inicial fue hacer un canal de Youtube con contenido y lenguaje sencillo así como digerible para los jóvenes millennials. Para Laura la idea del proyecto estaba claro,no obstante las interrogantes del motivo de desinterés de sus allegados son cuestiones que quiere atacar.
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+-No tiene claro el nombre
+-Búsqueda de insights
+-Propuesta de Valor
+-Información público objetivo
 
-## Objetivos de aprendizaje
+Problema del usuario: Nuestro usuario son los millennials  con un rango salarial entre los $9,000 y los $20,000 MXN que en personalidad se identificaron por ser ambiciosos y darle más importancia a su carrera profesional, les gusta viajar  y mencionan que en la escuela no se les ha dado esta educación financiera en sus vidas, se ha ido comprendiendo lo básico en las situaciones de crisis financieras o bien en su familia.
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+-No saben ahorrar
+-No tienen  la motivación de buscar información acerca de su salud financiera
+-Dicen que los gastos y/o deudas los rebasan por lo cual no pueden ahorrar
+-Les da miedo la estabilidad laboral
+ 
+## Objetivos
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
+General:
+Obtener información valiosa para revelar lo que motiva a los millennials para la creación de canal, blog o app que informe y oriente al aprendizaje de esta generación.
 
-## Tópicos a cubrir
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+Específicos:
+A través de los insights conocer exactamente, qué es lo que busca nuestro usuario y hacer todo el diseño y creación del proyecto, de acuerdo a sus gustos y necesidades.
+Crear contenido de acuerdo a los temas más buscados por parte de nuestros usuarios.
+Conocer a nuestra audiencia, qué tipo de lenguaje sería el adecuado y la forma más agradable que utilizaremos para informar acerca de estos asuntos.
+Conocer la competencia, los posibles temas de interés y con qué frecuencia se les mostraría el contenido.
+Crear un video donde integre toda la información recopilada en emociones, temas y ambiente que será creado para la atención y comprensión de nuestro usuario.
 
-## Consideraciones generales
+## Justificación de la investigación
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+En la actualidad, la cultura financiera así como la educación en general es uno de los motores del desarrollo social, ya que permite la generación del capital humano, pero especialmente porque ofrece mejores alternativas de vida al tomar decisiones financieras adecuadas. Por lo tanto, es un tema de interés para todos. De acuerdo con la CONDUSEF (2009), 62 de cada 100 mexicanos carecen de una cultura financiera, el 80% de las familias ahorra fuera del sistema financiero y el 31% de los mexicanos gasta más de su nivel de ingreso. Estas cifras demuestran la carencia de cultura y de planeación financiera. El proyecto de Laura Figueroa busca incentivar a los jóvenes que aún no tienen un problema tan grave de deudas y que se adentren a la información.
+En la presente investigación, se pretenden describir y analizar los datos que demuestran el nivel de cultura financiera en una muestra de 37 encuestas a jóvenes de entre 22 a 37 años y 5 entrevistas a profundidad a jóvenes millennial que cuenten con las características que buscamos , para de esta manera conocer un tema que si bien es relevante, no ha sido investigado con este enfoque para la creación de un canal de youtube que informe a los jóvenes conforme a los resultados obtenidos en esta investigación, describirán de manera objetiva y con certidumbre los insigths que nos dirán cómo abordar a nuestro usuario, que lenguaje utilizar y con que plataformas está generación se identifica más. Los resultados obtenidos permitirán hacer inferencias y procesos deductivos que lleven también al punto de poder generar conclusiones y las posteriores recomendaciones, además de contribuir a generar información de un tema poco abordado y explorado en la actualidad.
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+## Método de investigación 
+Se utiliza el método de investigación con enfoque cualitativo que según el libro de Metodología de la Investigación de R. Hernández Sampieri, “utiliza la recolección de datos sin medición numérica para descubrir o afinar preguntas de investigación en el proceso de interpretación” ,para llevar a cabo el proyecto se registraron las siguientes etapas:
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
+ 
+1.    Planteamiento del problema: Se identifica el problema que se pretende resolver con la investigación. Se realiza una búsqueda de información y se formula una propuesta de solución.
+2. Exploratoria: Etapa para obtener el marco contextual, relacionada con los temas principales de la investigación, donde se recopila toda la información y se formalizan los conceptos principales.
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
+3.    Descriptiva: Para identificar las características de nuestro user persona, contenido que les agrade  de casos de estudio.
 
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
+4. Recolección y análisis de resultados: Analizar e interpretar los resultados obtenidos y así encontrar los insights de nuestros usuarios y nuestro cliente.
 
-## Parte Obligatoria
+5. Propuesta de solución: Desarrollar una propuesta de solución con un conjunto de principios de evaluación heurística aplicando una metodología de desarrollo de heurísticas.
 
-### 1) General
+6. Validación de la propuesta: Validar la propuesta de solución a través de casos de estudio.
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
+7. Conclusiones y trabajos futuros: Evaluar el cumplimiento de los objetivos del
+proyecto y de la investigación que se realizó.
 
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
 
-### 2) Entendimiento del problema
+### Plan de trabajo
+En esta sección a petición de nuestra clienta hicimos el plan de trabajo en la herramienta Asana, que nos ayudó a ingresar las fechas exactas en donde queríamos tocar los distintos temas.
 
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
+### Etapa Exploratoria
 
-### 3) Planteamiento y validación de la solución
+#### Contexto 
 
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
+Para abarcar este problema cultural en México se tiene que entender de raíz el  contexto que pretende hacer un impacto en está generación en la investigación, La Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR, 2017) encuentra que los millennials pretenden iniciar la práctica del ahorro para tener una buena pensión antes de los 30 años, sin embargo, el ahorro de largo plazo no es parte de sus prioridades y además estos jóvenes no llevan registro de sus ingresos y gastos mensuales, sin embargo no realizan algún plan de acción para generar su plan de ahorro.
 
-## Implementación
+En cuántas ocasiones hemos escuchado decir que en México existe un rezago en materia de cultura financiera, pero ¿a qué se refiere dicha aseveración? En primera instancia debemos comprender su significado, para lo cual podemos definir a la cultura financiera como “el conjunto de conocimientos, prácticas, hábitos y costumbres que cada individuo posee para administrar, incrementar y proteger su patrimonio en las diferentes etapas de su vida” (Amezcua et al, 2014, p. 110).
+ 
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
+La falta de conocimientos financieros básicos, inhibe la habilidad de aplicarlos, conlleva a que las personas utilicen métodos informales de ahorro y crédito e incluso esquemas que pueden representar un riesgo para su patrimonio. Lo anterior implica costos más elevados y la imposibilidad de ser atendidos por la autoridad competente cuando se presente algún problema. En México, la educación financiera ha sido relegada durante muchos años; mientras en otras naciones, desde hace décadas, se ha integrado este tipo de educación en los programas educativos, en nuestro país apenas se está analizando cómo introducirla a las escuelas. De acuerdo con datos de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, cerca de 62 de cada 100 mexicanos carece de educación financiera (CONDUSEF, 2010). 
 
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+En el plano individual, el buen manejo que tiene una persona sobre sus finanzas, impacta positivamente en su calidad de vida y en la de su familia, ya que:
 
-## Entrega
+• Promueve la cultura del ahorro.
+• Genera conciencia sobre cuándo y cómo es conveniente endeudarse. 
+• Permite comparar productos financieros.
+• Otorga protección a los consumidores que al estar informados, demandan mayor transparencia en los servicios financieros.
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+Los conceptos fundamentales relacionados con la educación financiera son dinero, ahorro inversión y crédito.
+El sistema financiero es uno de los elementos más importantes que la cultura financiera toma en cuenta. Se puede explicar, haciendo un gran esfuerzo de síntesis, con dos componentes. Por un lado, personas, instituciones o empresas que tienen un sobrante de dinero para ahorro o inversión, y del otro lado, los mismos componentes, pero con necesidad de ese dinero. Cuando los excedentes de esos recursos se canalizan a quien los necesita, nace la llamada intermediación financiera. El desarrollo de un buen sistema financiero, requiere el fortalecimiento de ambos lados. Por ello se hace necesaria la cultura financiera.
 
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+La Encuesta Nacional de Inclusión Financiera (2017) muestra que sólo el 36.6% de la población lleva un registro de sus gastos (63.8% mentalmente, disminuyendo su confiabilidad). También menciona que 33.6 millones de personas, 44%, tiene una cuenta de ahorro y 41.2% algún servicio de ahorro para su retiro. De las personas que no tienen productos de ahorro o crédito, 50% manifiesta que sus ingresos son insuficientes y a 11% no le interesa adquirir ningún instrumento. Por otro lado, en 2014, las mismas instituciones, BANAMEX y UNAM, realizaron un estudio para conocer la situación sobre la cultura financiera entre los jóvenes de 15 a 29 años de México. Dicho estudio muestra que en este sector:
 
-Un video en Loom de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+• No existe una cultura de ahorro formal, en 47% de los encuestados.
+• Más de 50% no lleva un control de sus finanzas: ingresos, gastos, ahorro, etc.
+• A pesar de conocer el significado del ahorro, muchos de ellos aún no cuentan con ingresos necesarios para llevar a cabo esa práctica.
+• Ahorran, pero no saben en qué invertir. El tipo de inversión más reconocido para los jóvenes está relacionado con poner algún tipo de negocio (30% de los encuestados), mientras que los instrumentos financieros fueron los menos conocidos (por ejemplo, los Cetes).
+• El 87% no cuenta con un ahorro para el retiro.
+• El 50% reconoce no tener el conocimiento necesario para tomar decisiones relacionadas con sus finanzas.
+• Los jóvenes identifican a su familia como los mejores ejemplos para su formación financiera.
+• La edad e independencia es un factor importante. Los ya independientes tienden a llevar un mejor control de sus finanzas.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+Por ello se desea combatir esta cultura relegada o ignorancia masificada con la idea del proyecto de Laura Figueroa, que busca llegar a los millennials a través de un canal de youtube pero, ¿cómo podría generar esto un impacto?, de acuerdo al último estudio del internauta mexicano de la AMIPCI, de los 65 millones de usuarios de Internet en Mexico, dedican alrededor de 7 horas y 14 minutos al día para navegar en distintas plataformas, logrando el primer lugar con un 77%, la conexión a internet vía dispositivos móviles.
+Ahora bien, de ese porcentaje detallado, la red social YouTube, ocupa el segundo lugar de preferencia de uso en el usuario mexicano, por debajo de Facebook en primer lugar.
+ YouTube cuenta con el segundo lugar de preferencia por el usuario de Internet en México, que utilizan computadoras portátiles o de escritorio. Para el caso de dispositivos móviles (celular) se encuentra en tercer lugar con un 58%. Youtube es el boom con sus vlogs que ha forjado influencers y hasta celebridades. Y es punto de referencia para los consumidores, antes de hacer compras. 
+A inicios de año Youtube Go llegó a México, y con las opciones que ofrece para disfrutar del contenido sin conexión y una mayor personalización, se prevé que aumentará de forma significativa el uso de esta aplicación, junto a la popularidad de la plataforma.
+La red social de video YouTube es al día de hoy la preferida por la mayoría de los jóvenes. Ya que de acuerdo a Kerry Merryman, VP Content Partnership de YouTube, “México ocupa el tercer lugar a nivel global en consumo de video en YouTube, y el perfil del consumidor es principalmente de millennials, personas entre 18 y 34 años de edad”. Finalmente, y en comparación con otro estudio de IAB México, que reporta los hábitos del usuario del segmento de Adolescentes Internautas en México, podemos comprobar que un 88% del total de internautas, prefieren los contenidos en videos en línea, y un 87% videos de avances de trailers de películas, un 73% para videos realizados por usuarios.
+Uno de los factores más importantes por las que dicha plataforma ha incrementado sus visitas, descargas, etc., es debido a la aparición de los llamados “YouTubers“, quienes no se limitan solamente a subir videos sobre un tema específico, asimismo, la llegada de los “reviewers” los cuales realizan videos reseñando en su mayoría productos que causan gran impacto al momento de su lanzamiento.
+Por su parte Defy Media, en su Acumen Report, Youth Video Diet, encontró que los videos en YouTube no sólo son vistos como entretenimiento, sino como una oferta de contenido accesible on the go, pues satisface las necesidades de los usuarios más allá de únicamente divertirse y “pasar el rato”.
+## Definición del público objetivo
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+De inicio creamos una proto persona de acuerdo con las características del público objetivo que nuestro cliente tenía en mente y lo que de inicio se había investigado. Con ello obtuvimos lo siguiente:
 
-## Otras consideraciones
+En esto nos dimos cuenta que Laura tenía la hipótesis que sus mayores consumidores de contenido serían en su mayoría mujeres de 22 a 37 años de preferencia con nivel socioeconómico medio-alto, y que tengan la incertidumbre de distintos temas de salud financiera.
 
-### 1) Planeamiento y presupuesto
+Después se realizó una encuesta para conocer el entorno y en ella estábamos buscando  a personas con ciertas características y que es lo que en realidad buscaban ellos, con ello obtuvimos nuestra User persona:
 
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
+Destacaremos de la investigación realizada de las encuestas que obtuvimos de 32 personas sólo 23 personas que recibían el salario de $6,000 a $20,000 MXN de los cuales eran 9 hombres y 15 mujeres, las personalidades de hombres y mujeres que empataron las respuestas fueron del tipo boss babes y la de viajeros entusiastas. Eso quiere decir que estamos lidiando con jóvenes que muestran desinterés con respecto a su futuro financiero y que prefieren visualizar experiencias a corto plazo también, son personas que le dan importancia a su carrera profesional, son ambiciosos y que al estar obteniendo ingresos que normalmente no manejaban ahora no saben cómo administrarlo.
+## Temas a abordar
 
-### 2) Definición del producto
 
-Al definir el producto recuerda pensar en:
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
 
-### 3) Prototipo de alta fidelidad
 
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
+## Construido con
 
-## Hacker edition
-
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
-
-## Evaluación
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad y cada nivel. 
-A continuación presentamos las habilidades que deberías desarrollar durante este proyecto:
-
-### UX Design
-
-|Habilidad|
-|:---|
-|User centricity
-|Planificación
-|Entrevistas y testing
-|Observación
-|Síntesis de resultados
-|Flujos de usuario
-|Arquitectura de la información
-|Prototyping
-|Business mindset
-|Visual Design
-
-### Habilidades blandas
-
-|Habilidad|
-|:---|
-|Planificación y organización
-|Autoaprendizaje
-|Solución de problemas
-|Dar y recibir feedback
-|Adaptabilidad
-|Trabajo en equipo
-|Comunicación eficaz
-|Presentaciones
