@@ -6,8 +6,8 @@
 
 
 - [Resumen del proyecto](#resumen-del-proyecto)
-- [Objetivos](#objetivos)
 - [Problema](#problema)
+- [Objetivos](#objetivos)
 - [Método de investigación](#metodo-de-investigacion)
 - [Plan de Trabajo](#plan-de-trabajo)
 - [Etapa Exploratoria:](#etapa-exploratoria)
