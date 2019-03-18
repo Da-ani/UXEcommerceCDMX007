@@ -5,7 +5,7 @@
 ## Índice
 
 
-- [Descripción](#resumen-del-proyecto)
+- [Resumen del proyecto](#resumen-del-proyecto)
 - [Objetivos](#objetivos)
 - [Problema](#problema)
 - [Método de investigación](#metodo-de-investigacion)
@@ -67,7 +67,7 @@ En la actualidad, la cultura financiera así como la educación en general es un
 En la presente investigación, se pretenden describir y analizar los datos que demuestran el nivel de cultura financiera en una muestra de 37 encuestas a jóvenes de entre 22 a 37 años y 5 entrevistas a profundidad a jóvenes millennial que cuenten con las características que buscamos , para de esta manera conocer un tema que si bien es relevante, no ha sido investigado con este enfoque para la creación de un canal de youtube que informe a los jóvenes conforme a los resultados obtenidos en esta investigación, describirán de manera objetiva y con certidumbre los insigths que nos dirán cómo abordar a nuestro usuario, que lenguaje utilizar y con que plataformas está generación se identifica más. Los resultados obtenidos permitirán hacer inferencias y procesos deductivos que lleven también al punto de poder generar conclusiones y las posteriores recomendaciones, además de contribuir a generar información de un tema poco abordado y explorado en la actualidad.
 
 
-## Método de investigación 
+## Metodo de investigacion 
 Se utiliza el método de investigación con enfoque cualitativo que según el libro de Metodología de la Investigación de R. Hernández Sampieri, “utiliza la recolección de datos sin medición numérica para descubrir o afinar preguntas de investigación en el proceso de interpretación” ,para llevar a cabo el proyecto se registraron las siguientes etapas:
 
  
@@ -128,7 +128,8 @@ A inicios de año Youtube Go llegó a México, y con las opciones que ofrece par
 La red social de video YouTube es al día de hoy la preferida por la mayoría de los jóvenes. Ya que de acuerdo a Kerry Merryman, VP Content Partnership de YouTube, “México ocupa el tercer lugar a nivel global en consumo de video en YouTube, y el perfil del consumidor es principalmente de millennials, personas entre 18 y 34 años de edad”. Finalmente, y en comparación con otro estudio de IAB México, que reporta los hábitos del usuario del segmento de Adolescentes Internautas en México, podemos comprobar que un 88% del total de internautas, prefieren los contenidos en videos en línea, y un 87% videos de avances de trailers de películas, un 73% para videos realizados por usuarios.
 Uno de los factores más importantes por las que dicha plataforma ha incrementado sus visitas, descargas, etc., es debido a la aparición de los llamados “YouTubers“, quienes no se limitan solamente a subir videos sobre un tema específico, asimismo, la llegada de los “reviewers” los cuales realizan videos reseñando en su mayoría productos que causan gran impacto al momento de su lanzamiento.
 Por su parte Defy Media, en su Acumen Report, Youth Video Diet, encontró que los videos en YouTube no sólo son vistos como entretenimiento, sino como una oferta de contenido accesible on the go, pues satisface las necesidades de los usuarios más allá de únicamente divertirse y “pasar el rato”.
-## Definición del público objetivo
+
+## Definicion del publico objetivo
 
 De inicio creamos una proto persona de acuerdo con las características del público objetivo que nuestro cliente tenía en mente y lo que de inicio se había investigado. Con ello obtuvimos lo siguiente:
 
