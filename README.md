@@ -1,5 +1,5 @@
 
-![logo](https://subefotos.com/ver/?db1ad969651bdcf40514b51ab893d02fo.jpg)
+![6frplu](http://i64.tinypic.com/15ckldi.jpg)
 
 # Vacas Sagradas
 
@@ -27,12 +27,12 @@ Actualmente existen diversos programas, apps, blogs y canales en youtube que se 
 ## Problema  
 Para este rubro utilizamos la estrategía de 5 WHY’S que nos ayudó a tener de igual forma un contexto tanto histórico como del entorno.
 
-![imagen](https://photos.app.goo.gl/HXXRy61izPk6LcFz8)
-![imagen](https://photos.app.goo.gl/pcaoBgp1rDbWsazU8)
-![imagen](https://photos.app.goo.gl/a1Xi8bnG6SiRdwhGA)
-![imagen](https://photos.app.goo.gl/AuBWDrXazvUB6CTw5)
-![imagen](https://photos.app.goo.gl/pZt1Zqk7UdzhpCP96)
-![imagen](https://photos.app.goo.gl/ygEXCoLqAEpVjBG97)
+![imagen](http://i67.tinypic.com/5bzntt.jpg)
+![imagen](http://i64.tinypic.com/qn4rk0.jpg)
+![imagen](http://i64.tinypic.com/29411m0.jpg)
+![imagen](http://i65.tinypic.com/2yynhia.jpg)
+![imagen](http://i64.tinypic.com/xbaebo.jpg)
+![imagen](http://i63.tinypic.com/2144jl1.jpg)
 
 Debido al aumento de jóvenes nacidos entre 1985 y 1996  incursionando en el mercado laboral, de acuerdo con la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, 30% de los jóvenes mexicanos no muestra interés por la cultura financiera y prefieren gastar en experiencias antes que ahorrar sus ingresos, al menos financieramente, además son una generación que no piensa a futuro,no tienen algún conocimiento o interés por adquirir una salud financiera, ya que están concentrados en adquirir las mayores experiencias posibles antes de su vejez. 
 Uno de los factores que afectan a la salud financiera mundial, es la ausencia de una cultura financiera. Sobre todo, es un tema que no es atendido desde los primeros años de vida y hasta que la persona alcanza su madurez. Solamente los que se dedican específicamente a especializarse en el tema, tienen un bagaje de conocimientos que les permite en un momento determinado tomar una decisión financiera correcta.
@@ -43,7 +43,7 @@ En consecuencia a todo esto, es que surgen las siguientes preguntas de investiga
 • ¿Cómo atraer a los jóvenes millennials a que vean un canal, blog o app sobre salud financiera? ¿Qué tipo de contenido les atrae ver a esta generación? 
 Lo que se espera de esta investigación es dar una solución a estas interrogantes para llevar a cabo una landing page que nos apoyará con el fomento de la salud financiera mostrando a los millennials que se puede informar de estos temas de manera sencilla y digerible y con un lenguaje con el que interactúen y se sientan más identificados así como que les forme un  interés genuino.
 
-![imagen](https://i.ibb.co/HYYLHMK/lau.jpg)
+![imagen](http://i64.tinypic.com/69i72x.jpg)
 
 Problema del cliente: Laura se percató de está situación de desinterés y de desinformación, cuando se independiza se da cuenta que no le rendía el dinero, por lo cual necesitaba administrarse mejor para lograr pasar la quincena con el dinero suficiente, fue ahí cuando surgieron las dudas pero notó que muchos de sus compañeros y personas de su entorno tenían estas mismas preocupaciones, así que su idea inicial fue hacer un canal de Youtube con contenido y lenguaje sencillo así como digerible para los jóvenes millennials. Para Laura la idea del proyecto estaba claro,no obstante las interrogantes del motivo de desinterés de sus allegados son cuestiones que quiere atacar.
 
@@ -67,7 +67,7 @@ Objetivo de la entrevista: Concretar la idea de Laura y conocer los gustos y fin
 ¿Qué es lo que debemos hacer para que este proyecto valga la pena?
  
 Las respuestas de Laura nos ayudaron mucho ya que ahí descubrimos los insights de ella con respecto a su proyecto así que analizamos ciertos puntos y se obtuvo la siguiente información:
-![entrevista](https://photos.app.goo.gl/KyAzVPWfk6wqPPij7)
+![entrevista](http://i66.tinypic.com/2j1x7pc.jpg)
 
 - No tiene claro el nombre
 - Búsqueda de insights
