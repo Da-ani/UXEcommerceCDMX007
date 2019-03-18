@@ -1,5 +1,5 @@
 
-![6frplu](http://i64.tinypic.com/15ckldi.jpg)
+![6frplu](http://i66.tinypic.com/15ro9sj.jpg)
 
 # Vacas Flacas
 
@@ -174,9 +174,15 @@ Por su parte Defy Media, en su Acumen Report, Youth Video Diet, encontró que lo
 
 De inicio creamos una proto persona de acuerdo con las características del público objetivo que nuestro cliente tenía en mente y lo que de inicio se había investigado. Con ello obtuvimos lo siguiente:
 
+![protopersona](http://i67.tinypic.com/99m34m.jpg)
+
+
 En esto nos dimos cuenta que Laura tenía la hipótesis que sus mayores consumidores de contenido serían en su mayoría mujeres de 22 a 37 años de preferencia con nivel socioeconómico medio-alto, y que tengan la incertidumbre de distintos temas de salud financiera.
 
 Después se realizó una encuesta para conocer el entorno y en ella estábamos buscando  a personas con ciertas características y que es lo que en realidad buscaban ellos, con ello obtuvimos nuestra User persona:
+
+![userpersona](http://i63.tinypic.com/2hs56xe.jpg)
+![userpersona](http://i67.tinypic.com/2hz4e1s.jpg)
 
 Destacaremos de la investigación realizada de las encuestas que obtuvimos de 32 personas sólo 23 personas que recibían el salario de $6,000 a $20,000 MXN de los cuales eran 9 hombres y 15 mujeres, las personalidades de hombres y mujeres que empataron las respuestas fueron del tipo boss babes y la de viajeros entusiastas. Eso quiere decir que estamos lidiando con jóvenes que muestran desinterés con respecto a su futuro financiero y que prefieren visualizar experiencias a corto plazo también, son personas que le dan importancia a su carrera profesional, son ambiciosos y que al estar obteniendo ingresos que normalmente no manejaban ahora no saben cómo administrarlo.
 
