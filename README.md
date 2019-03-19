@@ -205,6 +205,19 @@ Para poder delimitar nuestra audiencia tuvimos que generar un benchmark a nuestr
 ![stalker](http://i68.tinypic.com/2le0747.jpg)
 ![stalker](http://i67.tinypic.com/316kfns.jpg)
 
+Con estos datos nos dimos cuenta que efectivamente lo que los usuarios buscan en el contenido de Youtube es que sean divertido o entretenido, que sean un ejemplo a seguir y que su contenido sea muy original. Por lo cual se tiene un ejemplo a seguir para el tioo de contenido que estamos buscando este personaje es más cómico y genera expectativa con sus videos tan diferenciadores queriendo atacar un problema como es la falta de educación financiera en Colombia. 
+
+-**Lenguaje**
+
+Para nosotras Laura ya tiene ciertas características de su personalidad, la cual la hace ser única:
+- Es sincera
+- Es directa y sin tapujos
+- Le gustan los memes
+- Es emotiva
+- Empática
+
+
+
 
 ### Marco teórico
 
