@@ -6,9 +6,10 @@
 ## Índice
 
 
-- [Descripción](#resumen-del-proyecto)
+- [Resumen del proyecto](#resumen-del-proyecto)
 - [Objetivos](#objetivos)
 - [Problema](#problema)
+- [Justificación de la investigación](#justificacion-de-la-investigacion)
 - [Método de investigación](#metodo-de-investigacion)
 - [Plan de Trabajo](#plan-de-trabajo)
 - [Etapa Exploratoria:](#etapa-exploratoria)
@@ -23,6 +24,20 @@
 
 Actualmente existen diversos programas, apps, blogs y canales en youtube que se enfocan a la problemática acerca de educación financiera en México, y para poder hacer un canal o cualquiera de estos medios se tuvo que realizar una investigación a fondo que estableciera los insights de nuestro user persona. La educación financiera se ha convertido en un tema de interés no sólo para organismos nacionales sino también internacionales. Contar con información y datos suficientes y confiables para tomar decisiones en la vida financiera de los millennials es vital para tener un plan de gastos, de ahorro e, incluso, de inversiones.
 
+## Objetivos
+
+General:
+Obtener información valiosa para revelar lo que motiva a los millennials para la creación de canal, blog o app que informe y oriente al aprendizaje de esta generación.
+
+
+Específicos:
+A través de los insights conocer exactamente, qué es lo que busca nuestro usuario y hacer todo el diseño y creación del proyecto, de acuerdo a sus gustos y necesidades.
+Crear contenido de acuerdo a los temas más buscados por parte de nuestros usuarios.
+Conocer a nuestra audiencia, qué tipo de lenguaje sería el adecuado y la forma más agradable que utilizaremos para informar acerca de estos asuntos.
+Conocer la competencia, los posibles temas de interés y con qué frecuencia se les mostraría el contenido.
+Crear un video donde integre toda la información recopilada en emociones, temas y ambiente que será creado para la atención y comprensión de nuestro usuario.
+
+![objetivos](http://i66.tinypic.com/2q3qhzq.jpg)
 
 ## Problema  
 Para empezar esta investigación en torno al problema evaluamos las distintas causas con sus efectos con un diagrama de Ishikawa que nos informo acerca de distintas problematicas que existen en México y que lo causaba.
@@ -85,20 +100,6 @@ Problema del usuario: Nuestro usuario son los millennials  con un rango salarial
 - Dicen que los gastos y/o deudas los rebasan por lo cual no pueden ahorrar
 - Les da miedo la estabilidad laboral
  
-## Objetivos
-
-General:
-Obtener información valiosa para revelar lo que motiva a los millennials para la creación de canal, blog o app que informe y oriente al aprendizaje de esta generación.
-
-
-Específicos:
-A través de los insights conocer exactamente, qué es lo que busca nuestro usuario y hacer todo el diseño y creación del proyecto, de acuerdo a sus gustos y necesidades.
-Crear contenido de acuerdo a los temas más buscados por parte de nuestros usuarios.
-Conocer a nuestra audiencia, qué tipo de lenguaje sería el adecuado y la forma más agradable que utilizaremos para informar acerca de estos asuntos.
-Conocer la competencia, los posibles temas de interés y con qué frecuencia se les mostraría el contenido.
-Crear un video donde integre toda la información recopilada en emociones, temas y ambiente que será creado para la atención y comprensión de nuestro usuario.
-
-![objetivos](http://i66.tinypic.com/2q3qhzq.jpg)
 
 ## Justificacion de la investigacion
 
@@ -164,11 +165,86 @@ La Encuesta Nacional de Inclusión Financiera (2017) muestra que sólo el 36.6% 
 
 Por ello se desea combatir esta cultura relegada o ignorancia masificada con la idea del proyecto de Laura Figueroa, que busca llegar a los millennials a través de un canal de youtube pero, ¿cómo podría generar esto un impacto?, de acuerdo al último estudio del internauta mexicano de la AMIPCI, de los 65 millones de usuarios de Internet en Mexico, dedican alrededor de 7 horas y 14 minutos al día para navegar en distintas plataformas, logrando el primer lugar con un 77%, la conexión a internet vía dispositivos móviles.
 Ahora bien, de ese porcentaje detallado, la red social YouTube, ocupa el segundo lugar de preferencia de uso en el usuario mexicano, por debajo de Facebook en primer lugar.
+ 
  YouTube cuenta con el segundo lugar de preferencia por el usuario de Internet en México, que utilizan computadoras portátiles o de escritorio. Para el caso de dispositivos móviles (celular) se encuentra en tercer lugar con un 58%. Youtube es el boom con sus vlogs que ha forjado influencers y hasta celebridades. Y es punto de referencia para los consumidores, antes de hacer compras. 
 A inicios de año Youtube Go llegó a México, y con las opciones que ofrece para disfrutar del contenido sin conexión y una mayor personalización, se prevé que aumentará de forma significativa el uso de esta aplicación, junto a la popularidad de la plataforma.
-La red social de video YouTube es al día de hoy la preferida por la mayoría de los jóvenes. Ya que de acuerdo a Kerry Merryman, VP Content Partnership de YouTube, “México ocupa el tercer lugar a nivel global en consumo de video en YouTube, y el perfil del consumidor es principalmente de millennials, personas entre 18 y 34 años de edad”. Finalmente, y en comparación con otro estudio de IAB México, que reporta los hábitos del usuario del segmento de Adolescentes Internautas en México, podemos comprobar que un 88% del total de internautas, prefieren los contenidos en videos en línea, y un 87% videos de avances de trailers de películas, un 73% para videos realizados por usuarios.
+La red social de video YouTube es al día de hoy la preferida por la mayoría de los jóvenes. Ya que de acuerdo a Kerry Merryman, VP 
+
+Content Partnership de YouTube, “México ocupa el tercer lugar a nivel global en consumo de video en YouTube, y el perfil del consumidor es principalmente de millennials, personas entre 18 y 34 años de edad”. Finalmente, y en comparación con otro estudio de IAB México, que reporta los hábitos del usuario del segmento de Adolescentes Internautas en México, podemos comprobar que un 88% del total de internautas, prefieren los contenidos en videos en línea, y un 87% videos de avances de trailers de películas, un 73% para videos realizados por usuarios.
+
 Uno de los factores más importantes por las que dicha plataforma ha incrementado sus visitas, descargas, etc., es debido a la aparición de los llamados “YouTubers“, quienes no se limitan solamente a subir videos sobre un tema específico, asimismo, la llegada de los “reviewers” los cuales realizan videos reseñando en su mayoría productos que causan gran impacto al momento de su lanzamiento.
 Por su parte Defy Media, en su Acumen Report, Youth Video Diet, encontró que los videos en YouTube no sólo son vistos como entretenimiento, sino como una oferta de contenido accesible on the go, pues satisface las necesidades de los usuarios más allá de únicamente divertirse y “pasar el rato”.
+
+### Marco teorico
+
+La cultura financiera puede definirse como el proceso por el que los consumidores financieros/inversionistas mejoran su comprensión de los productos financieros, conceptos y riesgos y, a través de la información, la enseñanza y/o el asesoramiento objetivo, desarrollan las habilidades y confianza para adquirir mayor conciencia de los riesgos y oportunidades financieras, tomar decisiones informadas, saber dónde acudir para pedir ayuda y tomar cualquier acción eficaz para mejorar su bienestar financiero (OCDE, 2005). Así, la cultura financiera va más allá del suministro de información y asesoramiento financiero, ya que esta cultura aumenta la economía como ya mencionábamos personal y nacional. 
+Es muy importante la inclusión y la cultura financiera, ya que su desconocimiento provoca que importantes segmentos de la población no tengan acceso financiero, ya que desconocen los productos, transacciones bancarias y las bondades de la bancarización, tanto para ahorrar, como para endeudarse, pagar o invertir (Coates, 2009).
+La cultura financiera y la inclusión financiera, son un fuerte soporte del proceso de bancarización. El término de bancarización es utilizado con frecuencia para hacer referencia a la incorporación al sistema financiero de grupos de escasos recursos del sector informal, que tradicionalmente han sido desatendidos por la banca comercial. El punto central o básico de la cultura financiera, es la información, la cual debe llegar al mayor número posible de individuos.
+
+- TEMAS
+
+Rueda del bienestar financiero: Todas estas áreas afectan a las demás, si se tiene problemas en una, se tendrá problemas en otra, lo que puede generar un espiral negativo, sin embargo si se mejora un elemento se puede generar un ciclo positivo.
+
+![rueda](http://i63.tinypic.com/fk9o9l.jpg)
+Problemas típicos, relacionados con cada parte:
+
+Ingresos, gastos y presupuesto: 
+* Sueldo bajo. 
+* Depender de una sola fuente de ingresos. 
+* Precariedad del empleo. 
+* Paro / incapacidad. 
+* Pérdida de ingresos por divorcio o fallecimiento de la pareja.
+* Gastos que superan los ingresos.
+* Falta de control, no saber cuánto ni en qué se gasta. 
+* No ahorrar todos los meses. 
+* No llegar a fin de mes o llegar con dificultad. 
+* Vivir mes a mes. 
+* No definir los objetivos financieros.
+
+Ahorro / inversión: 
+* Falta de un fondo de emergencia. 
+* Sin medios para adquisiciones importantes. 
+* No poder invertir, oportunidades perdidas. 
+* Falta de previsión, no contar con ahorros para la jubilación (tener que trabajar más años o malvivir). 
+* No sacar rendimiento de los ahorros. 
+* Perder dinero con malas inversiones.
+
+Crédito / endeudamiento: 
+* No tener acceso al crédito. 
+* No poder negociar condiciones mejores. 
+* Figurar en listados de morosos. 
+* Coste de penalizaciones por pagar tarde. 
+* Exceso de endeudamiento, reembolso e intereses aumentan los gastos, imposibilita poder vivir y ahorrar.
+
+Protección / Gestión de riesgos: 
+* No tener un fondo para gastos imprevistos y emergencias. 
+* No tener una cobertura adecuada de seguros para contingencias graves. 
+* Asumir demasiado riesgo en las inversiones. 
+* Caer víctima de fraudes financieros.
+
+- OBJETIVOS FINANCIEROS
+
+Los objetivos deben ser muy claros, para poder llegar a los sueños, se deben cumplir objetivos a corto plazo para ir avanzado, el tener objetivos con acciones definidas es la clave del éxito financiero, ya que son la clave del éxito financiero.
+
+Los objetivos financieros deben ser
+ 
+ ![rueda](http://i66.tinypic.com/25g8ox3.jpg)
+ 
+- Específicos:
+Metas claras y concretas: No solo sueñes con ir de viaje si no establece un lugar, fija un importe concreto para calcular cuánto tienes que ahorrar cada mes o semana de manera que esos objetivos también se vuelvan medibles y así planificarás lo que debes hacer para alcanzar ese ahorro
+
+- Alcanzables:
+Establecer objetivos realistas
+
+- Relevantes:
+Objetivos acorde con tus valores e intereses. Los objetivos sirven para alcanzar tus sueños.
+
+- Temporales:
+Especificar una fecha tope para lograr el objetivo, y asi saber que acciones concretas tomar (por ejemplo, cuánto hay que ahorrar cada mes)
+
+
+
+
 
 ## Definicion del publico objetivo
 
