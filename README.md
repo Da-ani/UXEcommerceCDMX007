@@ -14,8 +14,10 @@
 - [Plan de Trabajo](#plan-de-trabajo)
 - [Etapa Exploratoria:](#etapa-exploratoria)
 - [Contexto](#contexto)
+- [Youtube](#youtube)
 - [Marco Teórico](#marco-teórico)
 - [Millennials](#millennials)
+- [Etapa Descriptiva](#etapa-descriptiva)
 - [Definición del público objetivo](#definicion-del-público-objetivo)
 - [Customer Journey Map](#customer-journey-map)
 - [Definición de producto](#definición-de-producto)
@@ -24,7 +26,7 @@
 
 ## Resumen del proyecto 
 
-Actualmente existen diversos programas, apps, blogs y canales en youtube que se enfocan a la problemática acerca de educación financiera en México, y para poder hacer un canal o cualquiera de estos medios se tuvo que realizar una investigación a fondo que estableciera los insights de nuestro user persona. La educación financiera se ha convertido en un tema de interés no sólo para organismos nacionales sino también internacionales. Contar con información y datos suficientes y confiables para tomar decisiones en la vida financiera de los millennials es vital para tener un plan de gastos, de ahorro e, incluso, de inversiones.
+Actualmente existen diversos programas, apps, blogs y canales en youtube que se enfocan a la problemática acerca de educación financiera en México, y para poder hacer un canal o cualquiera de estos medios de información se tuvo que realizar una investigación a fondo que estableciera los insights de nuestro user persona. La educación financiera se ha convertido en un tema de interés no sólo para organismos nacionales sino también internacionales ya que se ha demostrado que influye tanto en la vida personal como en la economía nacional. Contar con información y datos suficientes y confiables para tomar decisiones en la vida financiera de los millennials es vital para tener un plan de gastos, de ahorro e, incluso, de inversiones.
 
 ## Objetivos
 
@@ -46,7 +48,7 @@ Para empezar esta investigación en torno al problema evaluamos las distintas ca
 
 ![imagen](http://i67.tinypic.com/10799xs.jpg)
 
-Para este rubro utilizamos la estrategía de 5 WHY’S que nos ayudó a tener de igual forma un contexto tanto histórico como del entorno.
+Para este rubro utilizamos la estrategía de 5 WHY’S que nos ayudó a tener un panorama tanto histórico como del entorno.
 
 ![imagen](http://i67.tinypic.com/5bzntt.jpg)
 ![imagen](http://i64.tinypic.com/qn4rk0.jpg)
@@ -58,23 +60,26 @@ Para este rubro utilizamos la estrategía de 5 WHY’S que nos ayudó a tener de
 Debido al aumento de jóvenes nacidos entre 1985 y 1996  incursionando en el mercado laboral, de acuerdo con la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, 30% de los jóvenes mexicanos no muestra interés por la cultura financiera y prefieren gastar en experiencias antes que ahorrar sus ingresos, al menos financieramente, además son una generación que no piensa a futuro,no tienen algún conocimiento o interés por adquirir una salud financiera, ya que están concentrados en adquirir las mayores experiencias posibles antes de su vejez. 
 Uno de los factores que afectan a la salud financiera mundial, es la ausencia de una cultura financiera. Sobre todo, es un tema que no es atendido desde los primeros años de vida y hasta que la persona alcanza su madurez. Solamente los que se dedican específicamente a especializarse en el tema, tienen un bagaje de conocimientos que les permite en un momento determinado tomar una decisión financiera correcta.
 Ante ello Laura Figueroa se propone iniciar un proyecto que sea un parteaguas que influya en la generación millennial y que de acuerdo a sus formas de aprendizaje se les haga relevante, innovador, con un lenguaje adecuado y forme en ellos la curiosidad hacia el buen manejo de sus finanzas.
-En consecuencia a todo esto, es que surgen las siguientes preguntas de investigación 
+
+En consecuencia a todas esas interrogantes , es que surgen las siguientes preguntas de investigación:
+
 * ¿Por qué los millennials no toman en cuenta su situación financiera? ¿Con qué lenguaje se debe abordar los temas a está generación?
 * ¿Es un tema cultural o un tema de educación desde su infancia? ¿Será buena idea hacer un canal, blog o app acerca de finanzas personales? 
 * ¿Cómo atraer a los jóvenes millennials a que vean un canal, blog o app sobre salud financiera? ¿Qué tipo de contenido les atrae ver a esta generación? 
-Lo que se espera de esta investigación es dar una solución a estas interrogantes para llevar a cabo una landing page que nos apoyará con el fomento de la salud financiera mostrando a los millennials que se puede informar de estos temas de manera sencilla y digerible y con un lenguaje con el que interactúen y se sientan más identificados así como que les forme un  interés genuino.
+
+Lo que se espera de esta investigación es dar una solución a estas interrogantes para llevar a cabo un reserch específico  que nos apoyará con el fomento de la salud financiera mostrando a los millennials que se puede informar de estos temas de manera sencilla y digerible y con un lenguaje con el que interactúen y se sientan más identificados así como que les forme un  interés genuino.
 
 ![imagen](http://i64.tinypic.com/69i72x.jpg)
 
-**Problema del cliente:** Laura se percató de está situación de desinterés y de desinformación, cuando se independiza se da cuenta que no le rendía el dinero, por lo cual necesitaba administrarse mejor para lograr pasar la quincena con el dinero suficiente, fue ahí cuando surgieron las dudas pero notó que muchos de sus compañeros y personas de su entorno tenían estas mismas preocupaciones, así que su idea inicial fue hacer un canal de Youtube con contenido y lenguaje sencillo así como digerible para los jóvenes millennials. Para Laura la idea del proyecto estaba claro,no obstante las interrogantes del motivo de desinterés de sus allegados son cuestiones que quiere atacar.
+**Problema del cliente:** Laura se percató de está situación de desinterés y de desinformación, cuando se independiza se da cuenta que no le rendía el dinero, por lo cual necesitaba administrarse mejor para lograr pasar la quincena con el dinero suficiente, fue ahí cuando surgieron las dudas acerca de su salud financiera, pero notó que muchos de sus compañeros y personas de su entorno tenían las mismas preocupaciones, así que su idea inicial fue hacer un canal de Youtube con contenido y lenguaje sencillo así como digerible para los jóvenes millennials. Para Laura la idea del proyecto estaba claro, no obstante las interrogantes del motivo de desinterés de sus allegados son cuestiones que quiere atacar.
 
 Para acotar estos problemas y tener claramente cuales eran decidimos hacerle una entrevista:
     
     **ENTREVISTA QUE SE LE REALIZÓ A LAURA PARA DETERMINAR ESTE PROYECTO**
 
  
-Objetivo de la entrevista: Concretar la idea de Laura y conocer los gustos y finalidad que ella tiene para el proyecto de vacas locas.
-- Buen día Laura, nosotras somos Daniela y Ariadna,  nos intereso tu proyecto ya que nosotras somos millennials a pesar de que el tema es poco abordado creemos que generaría un impacto en la educación financiera y la cultura en México el proyecto. Empezaremos con las preguntas:
+Objetivo de la entrevista: Concretar la idea de Laura y conocer sus deseos y objetivos que ella tiene para el proyecto de vacas locas.
+
 1. ¿Cuál es el problema o necesidad que te gustaría resolver?. 
 2. ¿Qué temas crees que debe abordar en la educación financiera?
 3. ¿Cuál sería el modelo de negocio?
@@ -88,13 +93,14 @@ Objetivo de la entrevista: Concretar la idea de Laura y conocer los gustos y fin
 11. ¿Por qué este canal sería importante para ti, y como ayuda a resolver la problemática que encontraste?
 12. ¿Qué es lo que debemos hacer para que este proyecto valga la pena?
  
-Las respuestas de Laura nos ayudaron mucho ya que ahí descubrimos los insights de ella con respecto a su proyecto así que analizamos ciertos puntos y se obtuvo la siguiente información:
+Las respuestas de Laura nos ayudaron mucho ya que ahí descubrimos los insights de nuestra cliente con respecto a su proyecto así que analizamos ciertos puntos y se obtuvo la siguiente información:
 ![entrevista](http://i66.tinypic.com/2j1x7pc.jpg)
 
 - No tiene claro el nombre
 - Búsqueda de insights
 - Propuesta de Valor
 - Información público objetivo
+- Contenido con lenguaje sencillo
 
 **Problema del usuario**: Nuestro usuario son los millennials  con un rango salarial entre los $9,000 y los $20,000 MXN que en personalidad se identificaron por ser ambiciosos y darle más importancia a su carrera profesional, les gusta viajar  y mencionan que en la escuela no se les ha dado esta educación financiera en sus vidas, se ha ido comprendiendo lo básico en las situaciones de crisis financieras o bien en su familia.
 
@@ -106,9 +112,9 @@ Las respuestas de Laura nos ayudaron mucho ya que ahí descubrimos los insights 
 
 ## Justificación de la investigación
 
-En la actualidad, la cultura financiera así como la educación en general es uno de los motores del desarrollo social, ya que permite la generación del capital humano, pero especialmente porque ofrece mejores alternativas de vida al tomar decisiones financieras adecuadas. Por lo tanto, es un tema de interés para todos. De acuerdo con la CONDUSEF (2009), 62 de cada 100 mexicanos carecen de una cultura financiera, el 80% de las familias ahorra fuera del sistema financiero y el 31% de los mexicanos gasta más de su nivel de ingreso. Estas cifras demuestran la carencia de cultura y de planeación financiera. El proyecto de Laura Figueroa busca incentivar a los jóvenes que aún no tienen un problema tan grave de deudas y que se adentren a la información.
+En la actualidad, la cultura financiera así como la educación en general es uno de los motores del desarrollo social, ya que permite la generación del capital humano, pero especialmente porque ofrece mejores alternativas de vida al tomar decisiones financieras adecuadas. Por lo tanto, es un tema de interés para todos. De acuerdo con la CONDUSEF (2009), 62 de cada 100 mexicanos carecen de una cultura financiera, el 80% de las familias ahorra fuera del sistema financiero y el 31% de los mexicanos gasta más de su nivel de ingreso. Estas cifras demuestran la carencia de cultura y de planeación financiera. El proyecto de Laura Figueroa busca incentivar a los jóvenes que aún no tienen un problema tan grave de deudas y que se adentren a la información, para que no caigan en fraudes o que su vida financiera sea armoniosa.
 
-En la presente investigación, se pretenden describir y analizar los datos que demuestran el nivel de cultura financiera en una muestra de 37 encuestas a jóvenes de entre 22 a 37 años y 5 entrevistas a profundidad a jóvenes millennial que cuenten con las características que buscamos , para de esta manera conocer un tema que si bien es relevante, no ha sido investigado con este enfoque para la creación de un canal de youtube que informe a los jóvenes conforme a los resultados obtenidos en esta investigación, describirán de manera objetiva y con certidumbre los insigths que nos dirán cómo abordar a nuestro usuario, que lenguaje utilizar y con que plataformas está generación se identifica más. Los resultados obtenidos permitirán hacer inferencias y procesos deductivos que lleven también al punto de poder generar conclusiones y las posteriores recomendaciones, además de contribuir a generar información de un tema poco abordado y explorado en la actualidad.
+En la presente investigación, se pretenden describir y analizar los datos que demuestran el nivel de cultura financiera en una muestra de 37 encuestas a jóvenes de entre 22 a 37 años y 5 entrevistas a profundidad a jóvenes millennial que cuenten con las características que buscamos , para de esta manera conocer un tema que si bien es relevante, no ha sido investigado con este enfoque para la creación de un canal de youtube que informe a los jóvenes. De acuerdo a los resultados obtenidos en esta investigación, describiremos de manera objetiva y con certidumbre los insigths que nos dirán cómo abordar a nuestro usuario, que lenguaje utilizar y con que plataformas está generación se identifica más. Los resultados obtenidos permitirán hacer inferencias y procesos deductivos que lleven también al punto de poder generar conclusiones y las posteriores recomendaciones, además de contribuir a generar información de un tema poco abordado y explorado en la actualidad.
 
 
 ## Método de investigacién 
@@ -116,10 +122,11 @@ En la presente investigación, se pretenden describir y analizar los datos que d
 Se utiliza el método de investigación con enfoque cualitativo que según el libro de Metodología de la Investigación de R. Hernández Sampieri, “utiliza la recolección de datos sin medición numérica para descubrir o afinar preguntas de investigación en el proceso de interpretación” ,para llevar a cabo el proyecto se registraron las siguientes etapas:
 
  
-1.    **Planteamiento del problema**: Se identifica el problema que se pretende resolver con la investigación. Se realiza una búsqueda de información y se formula una propuesta de solución.
-2. Exploratoria: Etapa para obtener el marco contextual, relacionada con los temas principales de la investigación, donde se recopila toda la información y se formalizan los conceptos principales.
+1.  **Planteamiento del problema**: Se identifica el problema que se pretende resolver con la investigación. Se realiza una búsqueda de información y se formula una propuesta de solución.
 
-3.    **Descriptiva**: Para identificar las características de nuestro user persona, contenido que les agrade  de casos de estudio.
+2. **Exploratoria:** Etapa para obtener el marco contextual, relacionada con los temas principales de la investigación, donde se recopila toda la información y se formalizan los conceptos principales.
+
+3.  **Descriptiva**: Para identificar las características de nuestro user persona, contenido que les agrade de casos de estudio.
 
 4. **Recolección y análisis de resultados**: Analizar e interpretar los resultados obtenidos y así encontrar los insights de nuestros usuarios y nuestro cliente.
 
@@ -134,6 +141,8 @@ proyecto y de la investigación que se realizó.
 ### Plan de trabajo
 En esta sección a petición de nuestra clienta hicimos el plan de trabajo en la herramienta Asana, que nos ayudó a ingresar las fechas exactas en donde queríamos tocar los distintos temas.
 
+![asana](http://i68.tinypic.com/24zzjmp.jpg)
+
 ### Etapa Exploratoria
 
 #### Contexto 
@@ -142,7 +151,6 @@ Para abarcar este problema cultural en México se tiene que entender de raíz el
 
 En cuántas ocasiones hemos escuchado decir que en México existe un rezago en materia de cultura financiera, pero ¿a qué se refiere dicha aseveración? En primera instancia debemos comprender su significado, para lo cual podemos definir a la cultura financiera como “el conjunto de conocimientos, prácticas, hábitos y costumbres que cada individuo posee para administrar, incrementar y proteger su patrimonio en las diferentes etapas de su vida” (Amezcua et al, 2014, p. 110).
  
-
 La falta de conocimientos financieros básicos, inhibe la habilidad de aplicarlos, conlleva a que las personas utilicen métodos informales de ahorro y crédito e incluso esquemas que pueden representar un riesgo para su patrimonio. Lo anterior implica costos más elevados y la imposibilidad de ser atendidos por la autoridad competente cuando se presente algún problema. En México, la educación financiera ha sido relegada durante muchos años; mientras en otras naciones, desde hace décadas, se ha integrado este tipo de educación en los programas educativos, en nuestro país apenas se está analizando cómo introducirla a las escuelas. De acuerdo con datos de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros, cerca de 62 de cada 100 mexicanos carece de educación financiera (CONDUSEF, 2010). 
 
 En el plano individual, el buen manejo que tiene una persona sobre sus finanzas, impacta positivamente en su calidad de vida y en la de su familia, ya que:
@@ -166,6 +174,8 @@ La Encuesta Nacional de Inclusión Financiera (2017) muestra que sólo el 36.6% 
 * Los jóvenes identifican a su familia como los mejores ejemplos para su formación financiera.
 * La edad e independencia es un factor importante. Los ya independientes tienden a llevar un mejor control de sus finanzas.
 
+### Youtube
+
 Por ello se desea combatir esta cultura relegada o ignorancia masificada con la idea del proyecto de Laura Figueroa, que busca llegar a los millennials a través de un canal de youtube pero, ¿cómo podría generar esto un impacto?, de acuerdo al último estudio del internauta mexicano de la AMIPCI, de los 65 millones de usuarios de Internet en Mexico, dedican alrededor de 7 horas y 14 minutos al día para navegar en distintas plataformas, logrando el primer lugar con un 77%, la conexión a internet vía dispositivos móviles.
 Ahora bien, de ese porcentaje detallado, la red social YouTube, ocupa el segundo lugar de preferencia de uso en el usuario mexicano, por debajo de Facebook en primer lugar.
  
@@ -177,6 +187,24 @@ Content Partnership de YouTube, “México ocupa el tercer lugar a nivel global 
 
 Uno de los factores más importantes por las que dicha plataforma ha incrementado sus visitas, descargas, etc., es debido a la aparición de los llamados “YouTubers“, quienes no se limitan solamente a subir videos sobre un tema específico, asimismo, la llegada de los “reviewers” los cuales realizan videos reseñando en su mayoría productos que causan gran impacto al momento de su lanzamiento.
 Por su parte Defy Media, en su Acumen Report, Youth Video Diet, encontró que los videos en YouTube no sólo son vistos como entretenimiento, sino como una oferta de contenido accesible on the go, pues satisface las necesidades de los usuarios más allá de únicamente divertirse y “pasar el rato”.
+
+El estudio Personalidades influyentes 2016, realizado en México por la agencia Provokers para Google y la revista Expansión, señala que los internautas más jóvenes confían más en los creadores de contenido en YouTube que en anuncios tradicionales o, incluso, en las clásicas celebridades.
+
+![youtube](http://i64.tinypic.com/25s39le.jpg)
+
+Desde sus canales, estos nuevos ídolos están influyendo en los hábitos de sus seguidores, hasta el punto que pueden ser determinantes a la hora de decidir respecto a una marca, qué música escuchan, los sitios web que visitan y hasta dónde viajan. Según el estudio, mientras un comercial tradicional tiene un impacto de un 19% en el proceso de compra, los creadores de YouTube llegan a incidir hasta un 81%.
+
+![youtube](http://i67.tinypic.com/2v9usds.jpg)
+
+- **Tipo de audiencia**
+
+Para poder delimitar nuestra audiencia tuvimos que generar un benchmark a nuestra competencia directa que a pesar de que su segmento es distinto las características de sus contenidos son parecidas. En este sentido descubrimos ciertos atributos de los canales Moneygamia y de Pequeño Cerdo Capitalista que nos pueden servir, en primera los dos canales de youtube tienen una frecuencia de contenido semanal en la que muestran a su público distintos videos que les pudieran interesar, también se puede observar que toman en cuenta las peticiones de sus usuarios para poder crear el contenido que a ellos les genere curiosidad. A través de nuestra investigación localizamos los usuarios que destacaríamos sus perfiles para una conclusión de sus seguidores.
+
+![stalker](http://i65.tinypic.com/fp182c.jpg)
+![stalker](http://i67.tinypic.com/6fcvwg.jpg)
+![stalker](http://i68.tinypic.com/2le0747.jpg)
+![stalker](http://i67.tinypic.com/316kfns.jpg)
+
 
 ### Marco teórico
 
@@ -254,7 +282,7 @@ misma organización, se sienten cómodos ante quien representa la autoridad, en 
 un sentido más general, su manera de sociabilizar se da más frecuentemente a través de redes virtuales, su vía para buscar información es internet, se centran en el presente, no les interesa el pasado y el futuro no les preocupa. (Pincheira & Arenas, 2016)
 En relación al comportamiento financiero de los jóvenes, CONSAR (2017) en la Encuesta Nacional Millennials encuentra que, aunque está presente el interés para jubilarse, no llevan a cabo hechos puntuales que los lleve a ello y se queda solo en un argumento. En su lista de prioridades no se encuentra el ahorro de largo plazo, no registran ni sus ingresos ni gastos mensuales y antepondrían la inversión del dinero en un negocio, al ahorro. 
 
- - Palabras más utilizadas:
+ - **Palabras más utilizadas:
 
 1. **Random**. Algo aleatorio, al azar.
 2. **Match**. Cuando dos personas se atraen, viene de las aplicaciones para ligar.
@@ -284,7 +312,7 @@ En relación al comportamiento financiero de los jóvenes, CONSAR (2017) en la E
 26. **Chilling**. Relajándose. 
 27. **Bot**. Este apócope de la palabra robot se utiliza para referirse a los usuarios no-reales de internet.
 
-
+### Etapa Descriptiva
 ## Definición del público objetivo
 
 De inicio creamos una proto persona de acuerdo con las características del público objetivo que nuestro cliente tenía en mente y lo que de inicio se había investigado. Con ello obtuvimos lo siguiente:
