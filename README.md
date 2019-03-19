@@ -9,14 +9,16 @@
 - [Resumen del proyecto](#resumen-del-proyecto)
 - [Objetivos](#objetivos)
 - [Problema](#problema)
-- [Justificación de la investigación](#justificacion-de-la-investigacion)
-- [Método de investigación](#metodo-de-investigacion)
+- [Justificación de la investigación](#justificación-de-la-investigación)
+- [Método de investigación](#método-de-investigación)
 - [Plan de Trabajo](#plan-de-trabajo)
 - [Etapa Exploratoria:](#etapa-exploratoria)
-- [Definición del público objetivo](#definicion-del-publico-objetivo)
+- [Contexto](#contexto)
+- [Marco Teórico](#marco-teórico)
+- [Millennials](#millennials)
+- [Definición del público objetivo](#definicion-del-público-objetivo)
 - [Customer Journey Map](#customer-journey-map)
-- [Definición de producto](#definicion-de-producto)
-- [Contenido](#contenido)
+- [Definición de producto](#definición-de-producto)
 - [Contenidos](#contenidos)
 
 
@@ -26,11 +28,11 @@ Actualmente existen diversos programas, apps, blogs y canales en youtube que se 
 
 ## Objetivos
 
-General:
+**General:**
 Obtener información valiosa para revelar lo que motiva a los millennials para la creación de canal, blog o app que informe y oriente al aprendizaje de esta generación.
 
 
-Específicos:
+**Específicos:**
 A través de los insights conocer exactamente, qué es lo que busca nuestro usuario y hacer todo el diseño y creación del proyecto, de acuerdo a sus gustos y necesidades.
 Crear contenido de acuerdo a los temas más buscados por parte de nuestros usuarios.
 Conocer a nuestra audiencia, qué tipo de lenguaje sería el adecuado y la forma más agradable que utilizaremos para informar acerca de estos asuntos.
@@ -64,10 +66,11 @@ Lo que se espera de esta investigación es dar una solución a estas interrogant
 
 ![imagen](http://i64.tinypic.com/69i72x.jpg)
 
-Problema del cliente: Laura se percató de está situación de desinterés y de desinformación, cuando se independiza se da cuenta que no le rendía el dinero, por lo cual necesitaba administrarse mejor para lograr pasar la quincena con el dinero suficiente, fue ahí cuando surgieron las dudas pero notó que muchos de sus compañeros y personas de su entorno tenían estas mismas preocupaciones, así que su idea inicial fue hacer un canal de Youtube con contenido y lenguaje sencillo así como digerible para los jóvenes millennials. Para Laura la idea del proyecto estaba claro,no obstante las interrogantes del motivo de desinterés de sus allegados son cuestiones que quiere atacar.
+**Problema del cliente:** Laura se percató de está situación de desinterés y de desinformación, cuando se independiza se da cuenta que no le rendía el dinero, por lo cual necesitaba administrarse mejor para lograr pasar la quincena con el dinero suficiente, fue ahí cuando surgieron las dudas pero notó que muchos de sus compañeros y personas de su entorno tenían estas mismas preocupaciones, así que su idea inicial fue hacer un canal de Youtube con contenido y lenguaje sencillo así como digerible para los jóvenes millennials. Para Laura la idea del proyecto estaba claro,no obstante las interrogantes del motivo de desinterés de sus allegados son cuestiones que quiere atacar.
 
 Para acotar estos problemas y tener claramente cuales eran decidimos hacerle una entrevista:
-    ENTREVISTA QUE SE LE REALIZÓ A LAURA PARA DETERMINAR ESTE PROYECTO
+    
+    **ENTREVISTA QUE SE LE REALIZÓ A LAURA PARA DETERMINAR ESTE PROYECTO**
 
  
 Objetivo de la entrevista: Concretar la idea de Laura y conocer los gustos y finalidad que ella tiene para el proyecto de vacas locas.
@@ -93,7 +96,7 @@ Las respuestas de Laura nos ayudaron mucho ya que ahí descubrimos los insights 
 - Propuesta de Valor
 - Información público objetivo
 
-Problema del usuario: Nuestro usuario son los millennials  con un rango salarial entre los $9,000 y los $20,000 MXN que en personalidad se identificaron por ser ambiciosos y darle más importancia a su carrera profesional, les gusta viajar  y mencionan que en la escuela no se les ha dado esta educación financiera en sus vidas, se ha ido comprendiendo lo básico en las situaciones de crisis financieras o bien en su familia.
+**Problema del usuario**: Nuestro usuario son los millennials  con un rango salarial entre los $9,000 y los $20,000 MXN que en personalidad se identificaron por ser ambiciosos y darle más importancia a su carrera profesional, les gusta viajar  y mencionan que en la escuela no se les ha dado esta educación financiera en sus vidas, se ha ido comprendiendo lo básico en las situaciones de crisis financieras o bien en su familia.
 
 - No saben ahorrar
 - No tienen  la motivación de buscar información acerca de su salud financiera
@@ -101,30 +104,30 @@ Problema del usuario: Nuestro usuario son los millennials  con un rango salarial
 - Les da miedo la estabilidad laboral
  
 
-## Justificacion de la investigacion
+## Justificación de la investigación
 
 En la actualidad, la cultura financiera así como la educación en general es uno de los motores del desarrollo social, ya que permite la generación del capital humano, pero especialmente porque ofrece mejores alternativas de vida al tomar decisiones financieras adecuadas. Por lo tanto, es un tema de interés para todos. De acuerdo con la CONDUSEF (2009), 62 de cada 100 mexicanos carecen de una cultura financiera, el 80% de las familias ahorra fuera del sistema financiero y el 31% de los mexicanos gasta más de su nivel de ingreso. Estas cifras demuestran la carencia de cultura y de planeación financiera. El proyecto de Laura Figueroa busca incentivar a los jóvenes que aún no tienen un problema tan grave de deudas y que se adentren a la información.
 
 En la presente investigación, se pretenden describir y analizar los datos que demuestran el nivel de cultura financiera en una muestra de 37 encuestas a jóvenes de entre 22 a 37 años y 5 entrevistas a profundidad a jóvenes millennial que cuenten con las características que buscamos , para de esta manera conocer un tema que si bien es relevante, no ha sido investigado con este enfoque para la creación de un canal de youtube que informe a los jóvenes conforme a los resultados obtenidos en esta investigación, describirán de manera objetiva y con certidumbre los insigths que nos dirán cómo abordar a nuestro usuario, que lenguaje utilizar y con que plataformas está generación se identifica más. Los resultados obtenidos permitirán hacer inferencias y procesos deductivos que lleven también al punto de poder generar conclusiones y las posteriores recomendaciones, además de contribuir a generar información de un tema poco abordado y explorado en la actualidad.
 
 
-## Metodo de investigacion 
+## Método de investigacién 
 
 Se utiliza el método de investigación con enfoque cualitativo que según el libro de Metodología de la Investigación de R. Hernández Sampieri, “utiliza la recolección de datos sin medición numérica para descubrir o afinar preguntas de investigación en el proceso de interpretación” ,para llevar a cabo el proyecto se registraron las siguientes etapas:
 
  
-1.    Planteamiento del problema: Se identifica el problema que se pretende resolver con la investigación. Se realiza una búsqueda de información y se formula una propuesta de solución.
+1.    **Planteamiento del problema**: Se identifica el problema que se pretende resolver con la investigación. Se realiza una búsqueda de información y se formula una propuesta de solución.
 2. Exploratoria: Etapa para obtener el marco contextual, relacionada con los temas principales de la investigación, donde se recopila toda la información y se formalizan los conceptos principales.
 
-3.    Descriptiva: Para identificar las características de nuestro user persona, contenido que les agrade  de casos de estudio.
+3.    **Descriptiva**: Para identificar las características de nuestro user persona, contenido que les agrade  de casos de estudio.
 
-4. Recolección y análisis de resultados: Analizar e interpretar los resultados obtenidos y así encontrar los insights de nuestros usuarios y nuestro cliente.
+4. **Recolección y análisis de resultados**: Analizar e interpretar los resultados obtenidos y así encontrar los insights de nuestros usuarios y nuestro cliente.
 
-5. Propuesta de solución: Desarrollar una propuesta de solución con un conjunto de principios de evaluación heurística aplicando una metodología de desarrollo de heurísticas.
+5. **Propuesta de solución**: Desarrollar una propuesta de solución con un conjunto de principios de evaluación heurística aplicando una metodología de desarrollo de heurísticas.
 
-6. Validación de la propuesta: Validar la propuesta de solución a través de casos de estudio.
+6. **Validación de la propuesta:** Validar la propuesta de solución a través de casos de estudio.
 
-7. Conclusiones y trabajos futuros: Evaluar el cumplimiento de los objetivos del
+7. **Conclusiones y trabajos futuros:** Evaluar el cumplimiento de los objetivos del
 proyecto y de la investigación que se realizó.
 
 
@@ -175,7 +178,7 @@ Content Partnership de YouTube, “México ocupa el tercer lugar a nivel global 
 Uno de los factores más importantes por las que dicha plataforma ha incrementado sus visitas, descargas, etc., es debido a la aparición de los llamados “YouTubers“, quienes no se limitan solamente a subir videos sobre un tema específico, asimismo, la llegada de los “reviewers” los cuales realizan videos reseñando en su mayoría productos que causan gran impacto al momento de su lanzamiento.
 Por su parte Defy Media, en su Acumen Report, Youth Video Diet, encontró que los videos en YouTube no sólo son vistos como entretenimiento, sino como una oferta de contenido accesible on the go, pues satisface las necesidades de los usuarios más allá de únicamente divertirse y “pasar el rato”.
 
-### Marco teorico
+### Marco teórico
 
 La cultura financiera puede definirse como el proceso por el que los consumidores financieros/inversionistas mejoran su comprensión de los productos financieros, conceptos y riesgos y, a través de la información, la enseñanza y/o el asesoramiento objetivo, desarrollan las habilidades y confianza para adquirir mayor conciencia de los riesgos y oportunidades financieras, tomar decisiones informadas, saber dónde acudir para pedir ayuda y tomar cualquier acción eficaz para mejorar su bienestar financiero (OCDE, 2005). Así, la cultura financiera va más allá del suministro de información y asesoramiento financiero, ya que esta cultura aumenta la economía como ya mencionábamos personal y nacional. 
 Es muy importante la inclusión y la cultura financiera, ya que su desconocimiento provoca que importantes segmentos de la población no tengan acceso financiero, ya que desconocen los productos, transacciones bancarias y las bondades de la bancarización, tanto para ahorrar, como para endeudarse, pagar o invertir (Coates, 2009).
@@ -188,7 +191,7 @@ Rueda del bienestar financiero: Todas estas áreas afectan a las demás, si se t
 ![rueda](http://i63.tinypic.com/fk9o9l.jpg)
 Problemas típicos, relacionados con cada parte:
 
-Ingresos, gastos y presupuesto: 
+**Ingresos, gastos y presupuesto:** 
 * Sueldo bajo. 
 * Depender de una sola fuente de ingresos. 
 * Precariedad del empleo. 
@@ -201,7 +204,7 @@ Ingresos, gastos y presupuesto:
 * Vivir mes a mes. 
 * No definir los objetivos financieros.
 
-Ahorro / inversión: 
+**Ahorro / inversión:** 
 * Falta de un fondo de emergencia. 
 * Sin medios para adquisiciones importantes. 
 * No poder invertir, oportunidades perdidas. 
@@ -209,20 +212,20 @@ Ahorro / inversión:
 * No sacar rendimiento de los ahorros. 
 * Perder dinero con malas inversiones.
 
-Crédito / endeudamiento: 
+**Crédito / endeudamiento:** 
 * No tener acceso al crédito. 
 * No poder negociar condiciones mejores. 
 * Figurar en listados de morosos. 
 * Coste de penalizaciones por pagar tarde. 
 * Exceso de endeudamiento, reembolso e intereses aumentan los gastos, imposibilita poder vivir y ahorrar.
 
-Protección / Gestión de riesgos: 
+**Protección / Gestión de riesgos:** 
 * No tener un fondo para gastos imprevistos y emergencias. 
 * No tener una cobertura adecuada de seguros para contingencias graves. 
 * Asumir demasiado riesgo en las inversiones. 
 * Caer víctima de fraudes financieros.
 
-- OBJETIVOS FINANCIEROS
+- **OBJETIVOS FINANCIEROS**
 
 Los objetivos deben ser muy claros, para poder llegar a los sueños, se deben cumplir objetivos a corto plazo para ir avanzado, el tener objetivos con acciones definidas es la clave del éxito financiero, ya que son la clave del éxito financiero.
 
@@ -230,23 +233,59 @@ Los objetivos financieros deben ser
  
  ![rueda](http://i66.tinypic.com/25g8ox3.jpg)
  
-- Específicos:
+- **Específicos:
 Metas claras y concretas: No solo sueñes con ir de viaje si no establece un lugar, fija un importe concreto para calcular cuánto tienes que ahorrar cada mes o semana de manera que esos objetivos también se vuelvan medibles y así planificarás lo que debes hacer para alcanzar ese ahorro
 
-- Alcanzables:
+- **Alcanzables:
 Establecer objetivos realistas
 
-- Relevantes:
+- **Relevantes:
 Objetivos acorde con tus valores e intereses. Los objetivos sirven para alcanzar tus sueños.
 
-- Temporales:
+- **Temporales:
 Especificar una fecha tope para lograr el objetivo, y asi saber que acciones concretas tomar (por ejemplo, cuánto hay que ahorrar cada mes)
 
+### Millennials
+
+Howe & Strauss (2009) describen a los jóvenes nacidos entre 1980 y 2000 con características muy particulares tales como: sobre-estimulados, saturados de actividades desde la infancia, en busca de la satisfacción inmediata, optimista y muy colaboradora. El aprendizaje de esta generación se facilita, considerando que su cerebro posee la habilidad de cambiar de una tarea a otra, de un tema a otro y luego regresar al anterior, y no centrarse solo en un tema. Esto probablemente generará conexiones neuronales
+diferentes a las que se conoce, ya que se trata de cambios muy rápidos que los lleva a una nueva forma estructurar sus caminos de aprendizaje. (Cataldi & Dominighini, 2015)
+En un escenario laboral, esta generación presenta características conductuales como: no piensan permanecer toda una vida en una
+misma organización, se sienten cómodos ante quien representa la autoridad, en la selección de un empleo, poder desarrollar su vida personal y familiar es un factor decisivo, se trazan objetivos de corto plazo por encima de metas de largo plazo, en determinado momento poder desarrollar tareas interesantes y motivadoras sería más importante que la paga, se muestran exigentes en el momento de la asignación de las actividades, siempre están en busca de su crecimiento personal, son capaces de realizar multitareas. En
+un sentido más general, su manera de sociabilizar se da más frecuentemente a través de redes virtuales, su vía para buscar información es internet, se centran en el presente, no les interesa el pasado y el futuro no les preocupa. (Pincheira & Arenas, 2016)
+En relación al comportamiento financiero de los jóvenes, CONSAR (2017) en la Encuesta Nacional Millennials encuentra que, aunque está presente el interés para jubilarse, no llevan a cabo hechos puntuales que los lleve a ello y se queda solo en un argumento. En su lista de prioridades no se encuentra el ahorro de largo plazo, no registran ni sus ingresos ni gastos mensuales y antepondrían la inversión del dinero en un negocio, al ahorro. 
+
+ - Palabras más utilizadas:
+
+1. **Random**. Algo aleatorio, al azar.
+2. **Match**. Cuando dos personas se atraen, viene de las aplicaciones para ligar.
+3. **Crush**. Amor a primera vista, alguien inalcanzable.
+4. **Influencer**. Aplicable a alguien que tiene mucha influencia, normalmente por su prescencia en redes sociales y en la que las marcas confían para hacer publicidad sus productos.
+5. **Fail**.Suele utilizarse cuando algo no sale como se espera. “Cagarla”.
+6. **Fake**. Término utilizado para referirse a que algo o alguien es falso.
+7. **Selfie**.se refiere a un autoretrato realizado con una cámara fotográfica. 
+8. **Hater**. Son odiadores profesionales, gente que odia algo o a alguien y hace todo lo posible por destruirlo.
+9. **Spoilear**. Uno de los peores pecados que puede cometer un ser humanos: contarle el final o alguna parte de la historia de forma intencional. 
+10. **Troll**.Cuando un millennial te habla sobre un trol, generalmente lo hace refiriéndose a una persona que, utilizando lenguaje ofensivo, intenta atacar a otra a través de las redes sociales por puro gusto o diversión.
+11. **Stalkear**. Vigilar e investigar por medio de las redes sociales a alguien.
+12. **Mainstream**. Una moda tan común que puede llegar a ser vulgar. algo convencional y al ser una tendencia mayoritaria en la sociedad, está demasiado usado.
+13. **Follower**. y es que, aunque en castellano exista la palabra seguidor, en redes sociales se ha potenciado mucho este término anglosajón, donde no eres nadie en el mundo millennial si no tienes muchos followers.
+14. **BAE**: Acrónimo que significa ‘Before anyone else’, dicho en español, “antes que nadie”.
+15. **BLESSED**: Es un estado de ánimo provocado por algo que te emociona particularmente y por el que te sientes bendecido. No confundir con living, que tiene un punto más de euforia.
+16. **GOAL**: Un mérito que has conseguido en la vida, como conseguir el trabajo de tus sueños, conseguir una prenda en las rebajas que te guste y sea de tu talla o abrir fácilmente un abrefácil.
+17. **MOOD**: En determinado momento un click en tu cerebro te cambia el estado de ánimo y comienzas un nuevo comportamiento.
+18. **LOL**: En inglés, ‘Lots of laughs’, hace referencia a cuando algo te hace mucha gracia.
+19. **SWAG**: Te cruzas con esa persona que tiene estilazo y que parece que camina dentro de un videoclip de Lady Gaga.
+20. **OUTFIT**: ¿Por qué decir conjunto, vestimenta o modelito si puedes decir outfit y parecer moderno?.
+21. **YOLO**: Se ve que eso del ‘carpe diem’ y del ‘tempus fugit’ quedó más que anticuado pero no el hecho de tener que recordarle a la gente que debe aprovechar el momento.
+22. **Fap**: Onomatopeya del sonido que se produce durante masturbación, algunos youtubers lo usan como sinónimo de fav, abreviatura de favorito, para pedir a sus seguidores que marquen algún contenido como preferente.
+23. **Hype**: Estrategia publicitaria que consiste en generar expectativas para dar emoción a algo, independientemente de que las merezca o no.
+24. **Rbf**: Siglas de "resting bitch face" (cara de perra o cara de mujer odiosa). 
+25. **Posser**. Alguien que pretende ser algo que no es.
+26. **Chilling**. Relajándose. 
+27. **Bot**. Este apócope de la palabra robot se utiliza para referirse a los usuarios no-reales de internet.
 
 
-
-
-## Definicion del publico objetivo
+## Definición del público objetivo
 
 De inicio creamos una proto persona de acuerdo con las características del público objetivo que nuestro cliente tenía en mente y lo que de inicio se había investigado. Con ello obtuvimos lo siguiente:
 
