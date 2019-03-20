@@ -19,7 +19,7 @@
 - [Millennials](#millennials)
 - [Etapa Descriptiva](#etapa-descriptiva)
 - [Definición del público objetivo](#definicion-del-público-objetivo)
-- [Customer Journey Map](#customer-journey-map)
+- [](#)
 - [Definición de producto](#definición-de-producto)
 - [Contenidos](#contenidos)
 
@@ -233,12 +233,12 @@ Rueda del bienestar financiero: Todas estas áreas afectan a las demás, si se t
 Problemas típicos, relacionados con cada parte:
 
 **Ingresos, gastos y presupuesto:** 
-* Sueldo bajo. 
-* Depender de una sola fuente de ingresos. 
-* Precariedad del empleo. 
-* Paro / incapacidad. 
-* Pérdida de ingresos por divorcio o fallecimiento de la pareja.
-* Gastos que superan los ingresos.
+* Sueldo bajo. Tema: ¿Cómo hacer rendir el dinero?
+* Depender de una sola fuente de ingresos. Tema: ¿Cómo invertir?
+* Precariedad del empleo. Tema: ¿Cómo hacer una buena entrevista laboral?
+* Paro / incapacidad. Tema: ¿Qué hacer en casos de incapacidad?
+* Pérdida de ingresos por divorcio o fallecimiento de la pareja. Tema: ¿Cómo sobreponerse de una crisis financiera?
+* Gastos que superan los ingresos. Tema: presupuesto personal.
 * Falta de control, no saber cuánto ni en qué se gasta. 
 * No ahorrar todos los meses. 
 * No llegar a fin de mes o llegar con dificultad. 
@@ -246,25 +246,25 @@ Problemas típicos, relacionados con cada parte:
 * No definir los objetivos financieros.
 
 **Ahorro / inversión:** 
-* Falta de un fondo de emergencia. 
-* Sin medios para adquisiciones importantes. 
-* No poder invertir, oportunidades perdidas. 
-* Falta de previsión, no contar con ahorros para la jubilación (tener que trabajar más años o malvivir). 
-* No sacar rendimiento de los ahorros. 
+* Falta de un fondo de emergencia. Tema: ¿Cómo hacer un fondo de ahorro?
+* Sin medios para adquisiciones importantes. Tema: ¿Cómo solicitar un crédito?
+* No poder invertir, oportunidades perdidas. Tema: ¿Cómo hacer una buena inversión?
+* Falta de previsión, no contar con ahorros para la jubilación (tener que trabajar más años o malvivir). Tema: Fondo de retiro
+* No sacar rendimiento de los ahorros. Tema: Ahorro con inversión
 * Perder dinero con malas inversiones.
 
 **Crédito / endeudamiento:** 
-* No tener acceso al crédito. 
-* No poder negociar condiciones mejores. 
+* No tener acceso al crédito. Tema: ¿Cómo buscar mejores alternativas de crédito?
+* No poder negociar condiciones mejores. Tema: ¿Cómo negociar un mejor crédito?
 * Figurar en listados de morosos. 
 * Coste de penalizaciones por pagar tarde. 
 * Exceso de endeudamiento, reembolso e intereses aumentan los gastos, imposibilita poder vivir y ahorrar.
 
 **Protección / Gestión de riesgos:** 
 * No tener un fondo para gastos imprevistos y emergencias. 
-* No tener una cobertura adecuada de seguros para contingencias graves. 
+* No tener una cobertura adecuada de seguros para contingencias graves. Tema: ¿Te sirve un seguro?
 * Asumir demasiado riesgo en las inversiones. 
-* Caer víctima de fraudes financieros.
+* Caer víctima de fraudes financieros. Tema: ¿Cómo no caer en fraudes de tarjetas de crédito o débito?
 
 - **OBJETIVOS FINANCIEROS**
 
@@ -342,7 +342,7 @@ Después se realizó una encuesta para conocer el entorno y en ella estábamos b
 
 Destacaremos de la investigación realizada de las encuestas que obtuvimos de 32 personas sólo 23 personas que recibían el salario de $6,000 a $20,000 MXN de los cuales eran 9 hombres y 15 mujeres, las personalidades de hombres y mujeres que empataron las respuestas fueron del tipo boss babes y la de viajeros entusiastas. Eso quiere decir que estamos lidiando con jóvenes que muestran desinterés con respecto a su futuro financiero y que prefieren visualizar experiencias a corto plazo también, son personas que le dan importancia a su carrera profesional, son ambiciosos y que al estar obteniendo ingresos que normalmente no manejaban ahora no saben cómo administrarlo.
 
-## Desarrollo del trabajo
+## D
 
 
 
