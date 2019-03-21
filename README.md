@@ -342,11 +342,55 @@ Después se realizó una encuesta para conocer el entorno y en ella estábamos b
 
 Destacaremos de la investigación realizada de las encuestas que obtuvimos de 32 personas sólo 23 personas que recibían el salario de $6,000 a $20,000 MXN de los cuales eran 9 hombres y 15 mujeres, las personalidades de hombres y mujeres que empataron las respuestas fueron del tipo boss babes y la de viajeros entusiastas. Eso quiere decir que estamos lidiando con jóvenes que muestran desinterés con respecto a su futuro financiero y que prefieren visualizar experiencias a corto plazo también, son personas que le dan importancia a su carrera profesional, son ambiciosos y que al estar obteniendo ingresos que normalmente no manejaban ahora no saben cómo administrarlo.
 
-## D
+## Definición del producto
+
+La propuesta del producto es la siguiente:
+
+Conforme a la investigación que hicimos tanto teórica, como con los usuarios, pudimos detectar 4 áreas para la definición del producto.
+
+Primera: Personalidad del canal
+La personalidad del canal tendrá la personalidad de nuestra clienta, ya que ella será la principal protagonista de este.
+Será un canal, divertido, directo, extrovertido, entretenido, constante y juvenil
+
+
+Segunda: El tipo de lenguaje que se va a utilizar 
+El lenguaje será Sencillo, interactivo, con sentido del humor, empático, inclusivo, con palabras usadas por los millenians
+ 
+ IMAGEN DE LENGUAJE DEL CANAL
+ 
+Tercero: Capitalización del canal
+Existen dos opciones de capitalización del canal, el perimero sería a través de CROWDFUNDING, donde recibes dinero de personas que se han identificado con tu proyecto o contigo mismo, por lo que se debe fondear al 100%, en caso contrario, se le devolverá el dinero a los fondeadores.
+Es recomendable dar alguna recompensa a las personas que te ayudaron a fondear tu proyecto y darles una muy buena calidad de información, ya que ellos confían plenamente en la persona que lleva a cabo ek canal por el que apostaron
+
+La segunda opción es a través del PATROCINIO, en donde tu producto debe atraer a las marcas de manera que al contatarlas ellos se intereses, para querer tener presencia dentro de tu producto. 
+ 
+ IMAGEN DE MAPA DE CAPITALIZACION
+ 
+ Cuarta: Modelo de negocio
+ Un modelo de negocio a parte, de la capitaliación, incluye la MONETIZACIÓN
+ La monetización de un canal de Yotube comienza a darse al tener:
+ -4000 horas de tiempo de reproducción en los últimos 12 meses
+ -1000 suscriptores
+ -Hacer un Youtube Partner, donde se te pagam $2 pesos por cada 1000 visitas, con la condición de tener 2000 visitas diairias
+ - Crear una cuenta AdSense, donde se te permite meter anuncios de algún anunciante que quiera promocionarse en tu sitio web
+ - Necesitas ser aprobado por youtube
+
+
+
+Para poder atraer mas gente al canal, existen distintos métodos, uno de ellos es GAMNIFICATION, donde se trata de incentivar a los usuarios de distintas maneras, por ejemplo:
+- Cupones de descuento
+- Productos gratuitos 
+- Gastos de envío gratis etc
+
+IMAGEN DE GAMNIFICATION
 
 
 
 
+Otro método sería PAGAR POR ANUNCIOS EN YOUTUBE
+Pagar por anuncios en Youtube a través de Google ads
+
+IMAGENES DE ANUNCIOS
 
 
 ## Construido con
